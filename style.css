@@ -1,0 +1,38 @@
+
+#logo p {
+    background-color: blue;
+    border-radius: 38%;
+    color: white;
+   
+    
+    text-align: center;
+    font-weight: 1000;
+    font-size: 50px;
+    font-family:sans-serif;
+}
+body  {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages2.alphacoders.com%2F461%2F461861.jpg&f=1&nofb=1");
+    background-color: #cccccc;
+  }
+#nav{
+    color: peru;
+
+}
+p {
+    font-weight: bold;
+    font-family: sans;
+    text-align:center;
+    background-color: orangered;
+}
+h3 {
+    color:white;
+}
+footer {
+    background-color: rgb(186, 194, 194);
+    padding-left: 6%;
+    border-radius: 8%;
+}
+img{
+    width: 100px;
+    height: 90px;
+}
