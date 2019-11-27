@@ -33,6 +33,9 @@ footer {
     border-radius: 8%;
 }
 img{
-    width: 100px;
-    height: 90px;
+    width: 320px;
+    height: 320px;
+    border-radius:50%;
+    display:block;
+    margin: 0px auto;
 }
